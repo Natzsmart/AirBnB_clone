@@ -8,7 +8,7 @@
 ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚══╝╚═════╝░  ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝
 ```
 
-![AirBnB](assets/hbnb_logo.png)
+![AirBnB](Assets/hbnb_logo.png)
 
 ## DESCRIPTION
 
