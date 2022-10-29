@@ -18,7 +18,7 @@ This is part 1 of our AirBnb Clone project. The purpose of this project is to ma
 
 #### Data Diagram
 
-![data_diagram](assets/data_diagram.jpg)
+![data_diagram](Assets/data_diagram.jpg)
 
 ## CONCEPTS LEARNT
 
